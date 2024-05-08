@@ -1,0 +1,29 @@
+plugins {
+    id 'java'
+    id 'org.openjfx.javafxplugin' version '0.1.0'
+
+    id 'application'
+}
+
+group = 'festival.clientfx'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+javafx
+        {
+            version="17"
+            modules = [ 'javafx.controls', 'javafx.fxml'  ]
+        }
+dependencies {
+    implementation project (':FestivalModel')
+    implementation project (':FestivalService')
+    implementation project (':FestivalNetworking')
+    testImplementation group: 'junit', name: 'junit', version: '4.12'
+    implementation group: 'org.apache.logging.log4j', name: 'log4j-api', version: '2.23.1'
+    implementation group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.23.1'
+}
+application {
+    mainClass='festival.clientfx.StartProtobuffClient'
+}

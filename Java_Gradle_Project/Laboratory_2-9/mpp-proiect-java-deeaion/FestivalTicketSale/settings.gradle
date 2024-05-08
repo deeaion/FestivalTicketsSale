@@ -1,0 +1,9 @@
+rootProject.name = 'FestivalTicketSale'
+include 'FestivalModel'
+include 'FestivalService'
+include 'FestivalPersistance'
+include 'FestivalClient'
+include 'FestivalServer'
+include 'FestivalClientFX'
+include 'FestivalNetworking'
+

@@ -1,0 +1,1446 @@
+2024-03-30 17:59:47,438 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 17:59:47,444 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 17:59:47,444 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 17:59:47,448 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering findAll
+2024-03-30 17:59:47,475 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting Find All!
+2024-03-30 17:59:47,476 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-30 17:59:47,477 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-03-30 17:59:47,477 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-30 17:59:47,477 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-03-30 17:59:47,478 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='heh', spectacol=4,,10/10/2000 10:10:10 AM,, nr_locuri=2} FestivalTicketSale.Model.Bilet
+2024-03-30 18:00:16,891 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 18:00:16,897 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 18:00:16,897 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 18:00:16,901 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering findAll
+2024-03-30 18:00:16,930 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting Find All!
+2024-03-30 18:00:16,931 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-30 18:00:16,931 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-03-30 18:00:16,932 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-30 18:00:16,932 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-03-30 18:00:16,933 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='heh', spectacol=4,,10/10/2000 10:10:10 AM,, nr_locuri=2} FestivalTicketSale.Model.Bilet
+2024-03-30 18:00:31,553 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 18:00:31,559 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 18:00:31,559 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 18:00:34,821 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering findAll
+2024-03-30 18:00:34,862 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting Find All!
+2024-03-30 18:00:48,442 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-30 18:00:48,443 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-03-30 18:00:55,605 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-30 18:00:55,605 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-03-30 18:01:01,251 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='heh', spectacol=4,,10/10/2000 10:10:10 AM,, nr_locuri=2} FestivalTicketSale.Model.Bilet
+2024-03-30 18:01:23,536 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 18:01:23,542 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 18:01:23,542 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 18:01:23,545 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering findAll
+2024-03-30 18:01:23,572 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting Find All!
+2024-03-30 18:01:23,573 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-30 18:01:23,573 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-03-30 18:01:23,574 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-30 18:01:23,574 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-03-30 18:01:23,575 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='heh', spectacol=4,,10/10/2000 10:10:10 AM,, nr_locuri=2} FestivalTicketSale.Model.Bilet
+2024-03-30 18:02:18,524 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 18:02:18,531 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 18:02:18,531 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 18:02:18,534 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering findAll
+2024-03-30 18:02:18,563 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting Find All!
+2024-03-30 18:02:18,564 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-30 18:02:18,564 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-03-30 18:02:18,565 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-30 18:02:18,565 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-03-30 18:02:18,566 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='heh', spectacol=4,,10/10/2000 10:10:10 AM,, nr_locuri=2} FestivalTicketSale.Model.Bilet
+2024-03-30 21:57:53,738 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 21:57:53,744 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 21:57:53,744 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 21:58:04,098 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-30 21:58:19,986 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 21:58:19,992 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 21:58:19,994 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:01:01,385 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 22:01:01,392 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 22:01:01,392 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:02:21,619 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 22:02:21,625 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 22:02:21,625 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:03:31,430 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 22:03:31,435 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 22:03:31,436 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:03:54,227 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 22:03:54,234 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 22:03:54,234 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:05:11,799 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 22:05:11,805 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 22:05:11,805 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:05:30,933 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 22:05:30,938 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 22:05:30,939 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:06:21,246 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 22:06:21,252 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 22:06:21,252 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:06:26,502 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-30 22:06:31,752 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-30 22:07:23,623 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 22:07:23,628 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 22:07:23,629 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:07:29,760 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-30 22:08:43,158 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 22:08:43,164 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 22:08:43,164 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:08:51,735 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-30 22:09:03,744 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 22:09:03,750 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 22:09:03,750 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:09:09,077 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-30 22:09:09,110 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-03-30 22:09:38,345 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 22:09:38,351 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 22:09:38,351 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:09:50,998 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-30 22:09:51,029 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-03-30 22:10:50,954 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 22:10:50,961 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 22:10:50,961 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:11:05,055 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-30 22:11:05,085 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-03-30 22:11:18,594 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 22:11:18,600 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 22:11:18,600 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:11:23,939 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-30 22:11:23,968 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-03-30 22:11:23,970 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-03-30 22:11:24,002 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-30 22:12:43,607 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 22:12:43,613 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 22:12:43,613 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:12:50,585 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-30 22:12:50,617 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-03-30 22:12:50,618 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-03-30 22:12:50,646 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-30 22:14:18,029 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 22:14:18,036 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 22:14:18,036 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:14:23,290 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-30 22:14:23,321 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-03-30 22:14:23,323 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-03-30 22:14:23,359 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-30 22:14:52,454 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 22:14:52,461 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 22:14:52,461 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:14:57,663 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-30 22:14:57,693 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-03-30 22:14:57,694 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-03-30 22:14:57,726 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-30 22:14:57,727 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-03-30 22:16:28,570 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 22:16:28,575 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 22:16:28,575 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:16:34,820 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-30 22:16:34,865 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-03-30 22:16:34,866 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-03-30 22:16:37,120 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-30 22:16:37,121 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-03-30 22:18:03,527 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-30 22:18:03,532 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-30 22:18:03,532 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-30 22:18:09,314 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-30 22:18:09,357 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-03-30 22:18:09,358 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-03-30 22:18:15,532 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-30 22:18:15,532 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-03-31 22:52:08,911 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-31 22:52:08,917 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-31 22:52:08,917 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-31 22:52:16,624 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-31 22:52:16,769 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-03-31 22:52:16,770 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-03-31 22:52:16,781 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-31 22:52:16,781 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-03-31 22:52:16,806 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-31 22:52:16,806 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-03-31 22:53:30,392 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-31 22:53:30,398 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-31 22:53:30,398 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-31 22:53:36,190 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-31 22:53:36,234 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-03-31 22:53:36,236 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-03-31 23:07:34,682 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-31 23:07:34,688 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-31 23:07:34,688 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-31 23:07:39,926 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-31 23:07:39,959 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-03-31 23:07:39,960 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-03-31 23:07:39,972 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-31 23:07:39,974 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-03-31 23:07:48,649 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-31 23:07:48,649 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-03-31 23:07:48,649 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-03-31 23:07:48,651 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-31 23:07:48,652 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-03-31 23:16:57,453 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-31 23:16:57,459 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-31 23:16:57,459 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-31 23:17:03,282 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-31 23:17:03,329 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-03-31 23:17:03,331 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-03-31 23:17:22,546 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-31 23:17:36,207 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-03-31 23:18:33,270 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-31 23:18:33,277 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-31 23:18:33,277 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-31 23:18:38,818 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-31 23:18:38,850 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-03-31 23:18:38,852 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-03-31 23:18:38,860 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-31 23:18:38,861 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-03-31 23:23:48,651 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-31 23:23:48,656 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-31 23:23:48,656 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-31 23:23:53,788 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-31 23:23:53,828 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-03-31 23:23:53,830 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-03-31 23:23:56,912 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-31 23:23:56,913 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-03-31 23:25:03,668 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-31 23:25:03,674 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-31 23:25:03,674 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-31 23:25:09,755 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-31 23:25:09,800 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-03-31 23:25:09,802 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-03-31 23:25:12,593 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-31 23:25:12,594 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-03-31 23:25:32,927 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-03-31 23:25:32,933 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-03-31 23:25:32,933 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-03-31 23:25:38,836 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-03-31 23:25:38,868 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-03-31 23:25:38,870 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-03-31 23:25:38,878 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-31 23:25:38,879 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-03-31 23:25:38,902 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-03-31 23:25:38,902 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 09:50:35,719 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 09:50:35,725 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 09:50:35,725 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 09:50:41,126 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 09:50:41,212 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 09:50:41,214 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 09:50:41,223 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 09:50:41,225 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 09:52:48,264 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 09:52:48,271 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 09:52:48,271 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 09:52:52,817 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 09:52:52,852 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 09:52:52,854 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 09:52:52,863 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 09:52:52,864 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 09:55:18,496 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 09:55:18,502 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 09:55:18,502 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 09:55:23,469 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 09:55:23,498 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 09:55:23,499 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 09:55:23,506 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 09:55:23,507 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 09:55:23,528 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 09:55:23,528 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:07:03,649 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 10:07:03,655 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 10:07:03,655 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 10:07:10,955 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 10:07:10,988 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 10:07:10,990 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 10:07:10,998 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:07:10,999 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:07:11,023 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:07:11,023 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:39:39,835 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 10:39:39,842 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 10:39:39,842 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 10:39:47,673 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 10:39:47,703 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 10:39:47,705 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 10:39:47,712 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:39:47,713 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:39:47,732 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:39:47,733 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:45:54,305 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 10:45:54,311 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 10:45:54,312 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 10:45:59,476 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 10:45:59,509 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 10:45:59,511 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 10:45:59,520 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:45:59,521 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:45:59,522 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:48:18,064 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 10:48:18,070 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 10:48:18,070 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 10:48:26,993 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 10:48:26,999 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 10:48:26,999 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 10:48:33,609 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 10:48:33,636 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 10:48:33,638 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 10:48:33,646 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:48:33,646 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:48:33,647 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:49:46,399 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 10:49:46,404 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 10:49:46,404 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 10:49:52,032 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 10:49:52,074 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 10:49:52,075 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 10:49:55,564 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:49:55,565 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:49:56,815 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:49:56,816 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 10:50:12,616 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:50:24,425 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:50:43,833 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:50:43,833 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:51:02,726 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 10:51:02,730 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 10:51:02,731 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 10:51:08,689 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 10:51:08,733 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 10:51:08,735 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 10:51:14,004 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:51:14,005 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:51:25,959 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 10:51:25,965 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 10:51:25,965 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 10:51:32,012 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 10:51:32,053 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 10:51:32,054 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 10:51:50,455 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:51:50,456 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:52:15,384 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:52:15,384 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 10:52:25,302 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 10:52:25,307 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 10:52:25,307 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 10:52:41,717 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 10:52:41,746 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 10:52:41,748 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 10:52:41,755 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:52:41,756 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:52:41,756 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:52:41,757 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 10:52:41,757 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:52:41,757 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:52:41,778 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:52:41,779 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:53:16,106 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 10:53:16,112 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 10:53:16,112 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 10:53:22,142 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 10:53:22,173 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 10:53:22,174 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 10:53:22,182 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:53:22,183 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:53:22,183 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:53:22,184 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 10:53:22,184 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:53:22,184 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:53:22,184 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:53:22,184 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:53:22,208 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:53:22,208 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:56:34,986 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 10:56:34,991 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 10:56:34,991 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 10:56:41,065 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 10:56:41,096 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 10:56:41,097 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 10:56:41,106 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:56:41,107 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:56:41,108 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:56:41,108 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 10:56:41,108 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:56:41,108 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:56:41,109 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:56:41,109 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:56:41,135 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:56:41,135 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:56:43,452 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:56:43,452 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:56:46,588 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:56:46,589 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 10:56:48,520 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 10:56:48,521 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 11:04:40,337 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 11:04:40,342 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 11:04:40,343 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 11:06:44,483 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 11:06:44,524 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 11:06:44,526 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 13:44:58,354 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 13:44:58,360 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 13:44:58,360 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 13:45:05,570 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 13:45:05,636 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 13:45:05,638 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 13:45:05,646 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 13:45:05,647 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 13:45:05,648 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 13:45:05,648 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 13:45:05,649 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 13:45:05,649 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 13:45:05,649 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 13:45:05,649 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 13:45:05,675 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 13:45:05,675 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 13:45:08,201 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 13:45:08,201 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 13:45:09,054 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 13:45:09,054 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 13:45:11,916 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 13:45:11,917 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 13:45:12,533 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 13:45:12,533 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 13:45:19,903 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 13:45:19,903 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 13:45:20,443 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 13:45:20,443 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 13:45:22,710 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 13:45:22,711 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 13:45:23,270 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 13:45:23,271 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 13:45:59,551 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 13:45:59,556 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 13:45:59,557 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 13:46:06,950 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 13:46:06,989 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 13:46:06,991 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 13:46:14,789 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 13:46:14,794 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 13:46:14,794 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 13:46:24,183 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 13:46:24,225 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 13:46:24,226 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 13:46:33,313 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 13:46:33,318 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 13:46:33,318 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 13:46:39,073 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 13:46:39,119 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 13:46:39,120 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 13:46:39,127 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 13:46:39,128 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 13:46:51,992 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 13:58:01,501 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 13:58:01,506 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 13:58:01,506 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 13:58:08,543 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 13:58:08,587 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 13:58:08,588 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 13:58:08,596 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 13:58:08,596 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:01:39,066 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:02:01,173 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:02:17,805 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:02:17,811 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:02:17,812 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:02:27,203 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:02:27,235 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:02:27,237 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:02:27,244 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:02:27,244 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:02:27,245 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:02:27,246 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:02:27,246 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:02:27,247 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:02:27,247 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:02:27,247 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:02:27,270 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:02:27,270 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:02:31,975 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:02:31,976 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:02:32,857 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:02:32,857 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:02:39,741 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:02:39,741 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:02:40,216 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:02:40,217 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:02:43,514 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:02:43,515 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:02:43,927 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:02:43,927 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:02:46,400 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:02:46,400 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:02:46,729 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:02:46,729 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:03:31,083 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:03:31,088 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:03:31,088 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:03:36,948 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:03:36,992 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:03:36,993 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:03:37,000 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:03:37,001 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:03:39,357 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:03:40,771 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:03:42,093 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:03:42,093 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:03:42,093 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:03:42,093 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:03:42,528 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:03:42,529 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:04:49,836 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:04:49,842 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:04:49,842 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:04:57,651 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:04:57,699 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:04:57,701 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:04:57,708 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:04:57,709 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:04:57,710 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:04:57,710 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:04:59,919 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:04:59,919 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:04:59,919 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:04:59,919 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:05:02,880 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:05:02,880 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:05:44,363 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:05:44,372 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:05:44,372 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:05:50,269 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:05:50,313 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:05:50,315 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:05:50,322 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:05:50,323 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:05:50,324 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:05:50,324 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:07:26,344 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:07:26,350 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:07:26,350 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:07:31,884 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:07:31,927 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:07:31,929 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:07:31,936 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:07:31,937 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:07:31,938 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:07:31,939 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:07:31,939 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:07:31,939 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:07:31,939 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:07:31,939 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:07:40,528 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:07:40,534 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:07:40,534 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:07:45,715 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:07:45,760 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:07:45,762 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:07:45,770 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:07:45,770 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:07:45,771 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:07:45,772 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:07:45,772 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:07:45,772 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:07:45,772 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:07:45,772 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:07:45,796 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:07:45,796 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:07:49,285 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:07:49,286 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:07:54,575 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:07:54,576 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:07:56,977 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:07:56,977 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:08:02,445 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:08:02,450 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:08:02,450 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:08:07,400 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:08:07,443 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:08:07,444 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:08:07,452 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:08:07,452 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:08:07,453 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:08:07,454 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:08:07,454 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:08:07,454 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:08:07,455 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:08:07,455 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:08:07,479 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:08:07,479 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:08:09,882 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:08:09,882 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:08:10,857 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:08:10,858 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:08:11,774 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:08:11,775 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:09:14,822 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:09:14,827 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:09:14,827 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:09:19,686 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:09:19,726 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:09:19,728 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:09:19,736 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:09:19,737 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:09:19,738 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:09:19,738 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:09:19,739 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:09:19,739 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:09:19,739 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:09:19,739 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:09:19,765 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:09:19,765 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:09:25,898 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:09:25,898 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:09:26,988 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:09:26,988 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:09:27,729 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:09:27,729 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:13:08,106 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:13:08,111 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:13:08,111 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:13:13,385 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:13:13,428 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:13:13,430 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:13:13,438 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:13,438 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:13:13,439 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:13,440 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:13:13,440 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:13,440 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:13:13,440 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:13,440 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:13:13,465 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:13,465 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:13:15,862 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:15,863 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:13:19,375 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:19,375 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:13:30,420 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:13:30,425 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:13:30,425 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:13:35,325 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:13:35,369 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:13:35,371 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:13:35,378 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:35,379 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:13:35,380 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:35,380 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:13:35,381 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:35,381 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:13:35,381 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:35,381 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:13:35,406 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:35,406 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:13:37,794 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:37,794 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:13:38,775 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:38,776 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:13:39,588 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:39,588 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:13:43,027 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:43,027 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:13:43,454 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:43,454 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:13:43,678 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:43,678 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:13:43,838 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:43,839 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:13:44,007 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:44,008 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:13:44,589 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:13:44,590 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:14:26,085 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:14:26,091 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:14:26,091 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:15:13,932 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:15:13,937 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:15:13,937 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:15:19,377 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:15:19,418 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:15:19,420 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:15:19,427 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:15:19,428 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:15:19,429 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:15:19,429 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:15:19,429 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:15:19,429 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:15:19,451 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:15:19,452 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:15:23,257 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:15:23,257 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:16:20,150 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:16:20,156 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:16:20,156 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:16:25,999 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:16:26,029 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:16:26,031 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:16:55,854 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:16:55,861 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:16:55,861 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:17:00,235 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:17:00,265 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:17:00,267 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:18:51,902 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:18:51,907 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:18:51,907 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:18:56,405 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:18:56,447 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:18:56,449 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:21:14,896 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:21:14,902 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:21:14,902 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:21:19,639 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:21:19,677 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:21:19,678 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:21:44,085 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:21:44,090 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:21:44,090 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:21:48,732 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:21:48,770 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:21:48,772 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:22:16,024 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:22:16,029 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:22:16,029 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:22:20,855 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:22:20,892 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:22:20,894 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:22:39,006 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:22:39,012 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:22:39,012 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:23:28,907 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:23:28,913 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:23:28,913 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:23:33,707 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:23:33,745 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:23:33,747 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:23:33,754 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:23:33,754 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:24:04,913 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:24:04,914 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:24:11,575 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:24:11,581 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:24:11,581 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:24:19,055 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:24:19,085 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:24:19,087 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:24:19,093 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:24:19,093 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:24:19,094 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:24:19,095 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:24:19,095 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:24:19,095 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:24:19,117 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:24:19,117 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:24:24,139 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:24:32,342 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:25:09,259 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:25:09,264 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:25:09,264 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:25:13,698 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:25:13,735 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:25:13,736 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:25:13,743 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:25:13,743 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:25:25,857 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:25:25,863 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:25:25,863 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:25:31,248 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:25:31,288 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:25:31,290 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:25:31,297 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:25:31,297 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:25:31,298 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:25:31,299 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:25:31,300 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:25:31,300 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:25:31,325 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:25:31,325 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:25:48,431 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:26:03,607 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:26:03,612 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:26:03,612 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:26:07,742 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:26:07,784 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:26:07,785 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:26:07,792 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:26:07,792 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:26:07,793 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:26:07,794 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:26:07,794 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:26:07,794 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:26:07,818 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:26:07,818 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:26:15,725 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:26:24,669 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:26:44,201 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:26:44,206 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:26:44,207 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:26:50,364 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:26:50,406 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:26:50,407 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:26:50,414 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:26:50,414 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:26:50,415 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:26:50,416 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:26:50,416 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:26:50,417 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:26:50,444 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:26:50,444 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:27:16,484 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:32:15,253 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:32:15,258 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:32:15,259 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:32:32,167 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:32:32,205 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:32:32,206 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:32:32,213 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:32:32,213 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:32:32,214 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:32:32,215 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:32:32,215 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:32:32,215 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:32:32,239 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:32:32,239 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:32:52,387 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:34:29,835 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:34:29,842 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:34:29,842 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:34:34,141 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:34:34,182 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:34:34,184 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:34:34,191 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:34:34,191 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:34:34,192 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:34:34,192 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:34:34,193 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:34:34,193 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:34:34,216 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:34:34,216 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:34:47,000 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:36:10,513 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:36:10,519 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:36:10,519 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:36:16,684 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:36:16,726 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:36:16,727 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:36:16,735 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:36:16,735 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:36:16,736 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:36:16,737 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:36:16,737 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:36:16,738 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:36:16,764 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:36:16,764 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:36:44,452 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:44:19,740 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:44:19,745 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:44:19,745 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:44:30,119 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:44:30,157 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:44:30,158 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:44:30,165 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:44:30,165 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:44:30,166 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:44:30,167 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:44:30,167 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:44:30,168 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:44:30,193 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:44:30,194 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:44:58,325 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:47:02,737 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:47:02,743 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:47:02,743 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:47:42,040 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:47:42,070 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:47:42,071 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:47:42,078 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:47:42,078 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:47:42,079 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:47:42,080 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:47:42,080 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:47:42,080 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:47:42,101 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:47:42,101 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:47:45,584 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:47:45,584 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:47:52,489 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:47:52,489 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:47:52,489 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:47:52,490 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:47:52,490 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:47:52,490 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:47:52,491 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:47:52,491 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:47:52,491 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:47:52,510 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:47:52,510 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:55:53,275 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:55:53,280 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:55:53,280 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:55:57,799 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:55:57,840 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:55:57,841 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:55:57,849 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:55:57,849 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:55:57,850 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:55:57,850 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:55:57,851 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:55:57,851 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:56:04,722 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:56:04,727 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:56:04,728 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:56:09,129 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:56:09,167 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:56:09,169 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:56:09,176 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:56:09,176 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:56:09,177 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:56:09,178 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:56:09,178 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:56:09,178 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:56:40,621 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:56:40,626 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:56:40,627 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:56:44,706 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:56:44,748 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:56:44,749 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:56:44,756 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:56:44,757 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:56:44,757 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:56:44,758 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:56:44,759 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:56:44,759 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:56:44,760 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:56:44,760 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:56:44,786 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:56:44,786 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:57:28,674 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering saving task 1,here,3/16/2024 12:56:56 PM,Stray Kids
+2024-04-01 14:57:28,683 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='aaaaaa', spectacol=1,here,3/16/2024 12:56:56 PM,Stray Kids, nr_locuri=2} FestivalTicketSale.Model.Bilet
+2024-04-01 14:57:57,954 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 14:57:57,959 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 14:57:57,960 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 14:58:04,449 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 14:58:04,490 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 14:58:04,492 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 14:58:04,499 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:58:04,499 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:58:04,500 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:58:04,500 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:58:04,501 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:58:04,501 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:58:04,502 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:58:04,503 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 14:58:04,527 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 14:58:04,527 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 14:58:27,550 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering saving task 1,here,1/20/1970 7:09:53 PM,Stray Kids
+2024-04-01 14:58:29,276 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='aaaaa', spectacol=1,here,1/20/1970 7:09:53 PM,Stray Kids, nr_locuri=3} FestivalTicketSale.Model.Bilet
+2024-04-01 20:10:03,015 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 20:10:03,021 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 20:10:03,021 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 20:13:30,990 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 20:13:30,996 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 20:13:30,996 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 20:13:36,906 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 20:13:36,985 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 20:13:36,986 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 20:13:36,994 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:13:36,994 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:13:36,995 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:13:36,996 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:13:36,997 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:13:36,997 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:13:36,998 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:13:36,998 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:13:37,027 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:13:37,029 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:14:15,859 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering saving task 3,here,3/16/2024 1:02:55 PM,Stray Kids
+2024-04-01 20:14:30,645 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='asdadadadad', spectacol=3,here,3/16/2024 1:02:55 PM,Stray Kids, nr_locuri=1} FestivalTicketSale.Model.Bilet
+2024-04-01 20:15:45,776 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 20:15:45,783 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 20:15:45,783 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 20:19:45,179 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 20:19:45,185 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 20:19:45,185 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 20:19:51,367 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 20:19:51,411 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 20:19:51,413 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 20:19:51,420 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:19:51,420 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:19:51,421 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:19:51,422 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:19:51,422 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:19:51,422 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:19:51,424 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:19:51,424 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:19:51,451 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:19:51,451 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:20:08,725 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering saving task 4,here,3/16/2024 1:05:02 PM,Stray Kids
+2024-04-01 20:20:10,496 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='adadad', spectacol=4,here,3/16/2024 1:05:02 PM,Stray Kids, nr_locuri=2} FestivalTicketSale.Model.Bilet
+2024-04-01 20:20:15,708 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='adadad', spectacol=4,here,3/16/2024 1:05:02 PM,Stray Kids, nr_locuri=2} FestivalTicketSale.Model.Bilet
+2024-04-01 20:21:42,916 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 20:21:42,921 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 20:21:42,922 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 20:21:49,004 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 20:21:49,044 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 20:21:49,047 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 20:21:49,054 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:21:49,054 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:21:49,055 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:21:49,056 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:21:49,056 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:21:49,056 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:21:49,057 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:21:49,058 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:21:49,085 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:21:49,085 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:27:30,842 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 20:27:30,847 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 20:27:30,848 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 20:27:40,176 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 20:27:40,224 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 20:27:40,226 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 20:27:40,234 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:27:40,234 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:27:40,235 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:27:40,236 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:27:40,236 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:27:40,236 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:27:40,237 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:27:40,238 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:27:40,262 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:27:40,262 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:28:08,201 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering saving task 1,here,3/16/2024 3:26:06 PM,Stray Kids
+2024-04-01 20:28:09,274 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='adadadad', spectacol=1,here,3/16/2024 3:26:06 PM,Stray Kids, nr_locuri=2} FestivalTicketSale.Model.Bilet
+2024-04-01 20:28:19,402 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='adadadad', spectacol=1,here,3/16/2024 3:26:06 PM,Stray Kids, nr_locuri=2} FestivalTicketSale.Model.Bilet
+2024-04-01 20:29:14,582 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 20:29:14,587 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 20:29:14,587 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 20:29:21,768 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 20:29:21,811 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 20:29:21,813 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 20:29:21,821 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:29:21,821 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:29:21,823 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:29:21,823 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:29:21,824 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:29:21,824 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:29:21,825 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:29:21,825 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:29:21,855 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:29:21,855 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:29:40,479 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering saving task 1,here,1/20/1970 7:10:02 PM,Stray Kids
+2024-04-01 20:29:41,538 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='gdgdgdgd', spectacol=1,here,1/20/1970 7:10:02 PM,Stray Kids, nr_locuri=1} FestivalTicketSale.Model.Bilet
+2024-04-01 20:29:49,946 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='gdgdgdgd', spectacol=1,here,1/20/1970 7:10:02 PM,Stray Kids, nr_locuri=1} FestivalTicketSale.Model.Bilet
+2024-04-01 20:30:36,740 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 20:30:36,745 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 20:30:36,746 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 20:30:43,785 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 20:30:43,791 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 20:30:43,791 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 20:30:54,325 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 20:30:54,368 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 20:30:54,369 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 20:30:54,377 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:30:54,377 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:30:54,379 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:30:54,379 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:30:54,380 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:30:54,380 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:30:54,381 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:30:54,381 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:30:54,405 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:30:54,406 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:31:31,066 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering saving task 3,here,3/16/2024 3:26:06 PM,Stray Kids
+2024-04-01 20:31:31,867 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='rwrwrwrwrw', spectacol=3,here,3/16/2024 3:26:06 PM,Stray Kids, nr_locuri=1} FestivalTicketSale.Model.Bilet
+2024-04-01 20:31:36,742 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='rwrwrwrwrw', spectacol=3,here,3/16/2024 3:26:06 PM,Stray Kids, nr_locuri=1} FestivalTicketSale.Model.Bilet
+2024-04-01 20:32:21,262 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 20:32:21,267 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 20:32:21,267 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 20:32:28,782 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 20:32:28,788 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 20:32:28,789 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 20:32:38,449 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 20:32:38,493 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 20:32:38,495 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 20:32:38,503 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:32:38,503 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:32:38,504 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:32:38,505 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:32:38,505 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:32:38,505 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:32:38,506 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:32:38,507 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:32:38,531 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:32:38,531 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:33:09,509 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering saving task 1,here,3/16/2024 3:26:06 PM,Stray Kids
+2024-04-01 20:35:45,645 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 20:35:45,650 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 20:35:45,650 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 20:35:51,738 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 20:35:51,782 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 20:35:51,783 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 20:35:51,791 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:35:51,792 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:35:51,792 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:35:51,793 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:35:51,793 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:35:51,793 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:35:51,794 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:35:51,795 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:35:51,821 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:35:51,821 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:36:06,028 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering saving task 1,here,3/16/2024 3:26:06 PM,Stray Kids
+2024-04-01 20:36:26,611 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='sdsdsd', spectacol=1,here,3/16/2024 3:26:06 PM,Stray Kids, nr_locuri=1} FestivalTicketSale.Model.Bilet
+2024-04-01 20:36:28,443 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='sdsdsd', spectacol=1,here,3/16/2024 3:26:06 PM,Stray Kids, nr_locuri=1} FestivalTicketSale.Model.Bilet
+2024-04-01 20:36:50,530 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 20:36:50,536 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 20:36:50,536 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 20:36:56,518 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 20:36:56,552 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 20:36:56,554 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 20:36:56,562 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:36:56,563 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:36:56,563 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:36:56,564 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:36:56,565 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:36:56,565 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:36:56,566 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:36:56,566 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:36:56,597 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:36:56,598 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:37:04,681 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering saving task 1,here,3/16/2024 3:26:06 PM,Stray Kids
+2024-04-01 20:43:35,328 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 20:43:35,335 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 20:43:35,335 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 20:43:43,490 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 20:43:43,523 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 20:43:43,525 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 20:43:43,533 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:43:43,533 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:43:43,534 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:43:43,535 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:43:43,535 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:43:43,535 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:43:43,536 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:43:43,537 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:43:43,567 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:43:43,568 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:43:46,563 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:43:46,563 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:43:46,564 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:43:46,564 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:43:46,565 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:43:46,565 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:45:13,438 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 20:45:13,445 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 20:45:13,445 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 20:45:20,277 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 20:45:20,310 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 20:45:20,312 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 20:45:20,319 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:45:20,319 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:45:20,320 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:45:20,321 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:45:20,321 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:45:20,321 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:45:20,322 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:45:20,322 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:45:20,356 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:45:20,356 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:45:23,463 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:45:23,463 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:45:23,465 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:45:23,465 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:45:23,465 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:45:23,466 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:45:28,031 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:45:28,032 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:45:28,881 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:45:28,881 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:45:29,341 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:45:29,341 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:45:29,667 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:45:29,668 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:45:30,178 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:45:30,178 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:45:30,980 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:45:30,980 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:45:31,505 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:45:31,506 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:46:11,393 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 20:46:11,399 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 20:46:11,399 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 20:46:23,770 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 20:46:23,808 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 20:46:23,809 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 20:46:23,817 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:46:23,817 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:46:23,818 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:46:23,818 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:46:23,820 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:46:23,820 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:46:23,820 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:46:23,821 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:46:23,850 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:46:23,850 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:48:28,719 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-01 20:48:28,725 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-01 20:48:28,725 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-01 20:48:41,718 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-01 20:48:41,751 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-01 20:48:41,753 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-01 20:48:41,761 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:48:41,761 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:48:41,762 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:48:41,763 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:48:41,763 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:48:41,763 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-01 20:48:41,764 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:48:41,764 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-01 20:48:41,788 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-01 20:48:41,788 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:23:30,573 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-03 10:23:30,579 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-03 10:23:30,580 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-03 10:23:36,679 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-03 10:23:36,825 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-03 10:23:36,827 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-03 10:23:36,856 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:23:36,857 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:23:36,860 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:23:36,861 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:23:36,862 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:23:36,862 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:23:36,863 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:23:36,863 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 10:23:36,904 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:23:36,904 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:23:48,743 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:23:48,743 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 10:23:52,247 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:23:52,248 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:23:52,250 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:23:52,251 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:23:52,251 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:23:52,251 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:23:52,251 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:23:52,252 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 10:24:00,013 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:24:00,013 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:24:00,015 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:24:00,015 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:24:00,016 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:24:00,016 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 10:24:10,335 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:24:10,335 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:24:10,337 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:24:10,337 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:24:10,337 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:24:10,337 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 10:24:17,098 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering saving task 1,here,3/16/2024 3:26:06 PM,Stray Kids
+2024-04-03 10:24:17,110 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='aaaaa', spectacol=1,here,3/16/2024 3:26:06 PM,Stray Kids, nr_locuri=1} FestivalTicketSale.Model.Bilet
+2024-04-03 10:24:17,116 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='aaaaa', spectacol=1,here,3/16/2024 3:26:06 PM,Stray Kids, nr_locuri=1} FestivalTicketSale.Model.Bilet
+2024-04-03 10:24:17,119 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:24:17,120 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:24:17,122 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:24:17,122 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:24:17,123 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:24:17,123 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 10:24:21,965 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering saving task 1,here,3/16/2024 3:26:06 PM,Stray Kids
+2024-04-03 10:24:23,650 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:24:23,650 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:24:23,653 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:24:23,653 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:24:23,654 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:24:23,654 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 10:24:26,273 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering saving task 1,here,3/16/2024 3:26:06 PM,Stray Kids
+2024-04-03 10:24:26,285 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='aaaaa', spectacol=1,here,3/16/2024 3:26:06 PM,Stray Kids, nr_locuri=1} FestivalTicketSale.Model.Bilet
+2024-04-03 10:24:26,289 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='aaaaa', spectacol=1,here,3/16/2024 3:26:06 PM,Stray Kids, nr_locuri=1} FestivalTicketSale.Model.Bilet
+2024-04-03 10:24:26,293 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:24:26,293 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:24:26,300 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:24:26,300 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:24:26,301 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:24:26,301 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 10:28:09,601 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-03 10:28:09,608 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-03 10:28:09,608 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-03 10:28:15,783 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-03 10:28:15,819 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-03 10:28:15,821 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-03 10:28:15,829 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:28:15,829 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:28:15,830 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:28:15,831 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:28:15,832 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:28:15,832 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:28:15,833 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:28:15,833 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 10:28:15,866 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:28:15,866 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:28:33,469 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:28:33,470 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:28:33,473 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:28:33,473 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:28:33,474 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:28:33,474 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 10:28:44,489 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering saving task 3,here,3/16/2024 3:26:06 PM,Stray Kids
+2024-04-03 10:28:44,501 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='aaaa', spectacol=3,here,3/16/2024 3:26:06 PM,Stray Kids, nr_locuri=1} FestivalTicketSale.Model.Bilet
+2024-04-03 10:28:44,507 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='aaaa', spectacol=3,here,3/16/2024 3:26:06 PM,Stray Kids, nr_locuri=1} FestivalTicketSale.Model.Bilet
+2024-04-03 10:28:44,510 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:28:44,511 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:28:44,516 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:28:44,516 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:28:44,516 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:28:44,516 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 10:29:52,933 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-03 10:29:52,940 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-03 10:29:52,940 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-03 10:30:06,116 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-03 10:30:06,152 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-03 10:30:06,154 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-03 10:30:06,161 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:30:06,162 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:30:06,163 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:30:06,163 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:30:06,164 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:30:06,164 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:30:06,165 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:30:06,165 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 10:30:06,189 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:30:06,189 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 10:30:09,938 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:30:09,938 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 10:30:10,777 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 10:30:10,777 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 11:59:56,279 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-03 11:59:56,285 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-03 11:59:56,285 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-03 12:00:02,829 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-03 12:00:02,896 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-03 12:00:02,898 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-03 12:00:02,907 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:00:02,907 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:00:02,908 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:00:02,909 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:00:02,911 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:00:02,911 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:00:02,912 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:00:02,912 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 12:00:02,936 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:00:02,937 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:00:10,659 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:00:10,660 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 12:00:10,660 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:00:10,660 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:00:10,661 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:00:10,661 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:00:10,661 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:00:10,662 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 12:00:12,445 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:00:12,445 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 12:00:13,383 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:00:13,383 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:00:13,893 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:00:13,894 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 12:00:14,278 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:00:14,279 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:00:18,297 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:00:18,297 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:00:18,300 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:00:18,300 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:00:20,648 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:00:20,649 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 12:00:22,914 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:00:22,914 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 12:01:03,434 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-03 12:01:03,440 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-03 12:01:03,440 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-03 12:01:11,880 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-03 12:01:11,886 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-03 12:01:11,886 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-03 12:01:28,808 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-03 12:01:28,838 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-03 12:01:28,839 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-03 12:01:28,846 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:01:28,846 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:01:28,846 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:01:28,847 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:01:28,847 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:01:28,847 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:01:28,848 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:01:28,848 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 12:01:28,868 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:01:28,868 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:01:36,682 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:01:36,682 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 12:01:39,457 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:01:39,457 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:01:48,983 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:01:48,984 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 12:01:50,601 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:01:50,602 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 12:03:09,252 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-03 12:03:09,259 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-03 12:03:09,259 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-03 12:03:15,602 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-03 12:03:15,639 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-03 12:03:15,642 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-03 12:03:15,650 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:03:15,650 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:03:15,651 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:03:15,652 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:03:15,652 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:03:15,652 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:03:15,653 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:03:15,654 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 12:03:15,678 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:03:15,678 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:04:00,091 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Creating DBAngajatRepository
+2024-04-03 12:04:00,099 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Creating DBSpectacolRepository
+2024-04-03 12:04:00,099 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Creating DBSpectacolRepository
+2024-04-03 12:04:30,590 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by email
+2024-04-03 12:04:30,627 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Entering find one by username
+2024-04-03 12:04:30,629 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBAngajatRepository - Exiting findOne with value 1,Admin,Admin,admin@gmail.com
+2024-04-03 12:04:30,637 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:04:30,638 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:04:30,639 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:04:30,639 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:04:30,640 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:04:30,640 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:04:30,641 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:04:30,641 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 12:04:30,665 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:04:30,665 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:04:51,227 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:04:51,227 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 12:04:51,228 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:04:51,228 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:04:51,230 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:04:51,230 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:04:51,232 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:04:51,232 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:04:51,232 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:04:51,232 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 12:05:06,817 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:05:06,817 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 12:05:08,917 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:05:08,918 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:05:11,219 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:05:11,219 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 12:05:23,651 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering saving task 1,here,3/16/2024 3:26:06 PM,Stray Kids
+2024-04-03 12:05:26,883 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:05:26,883 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:05:26,888 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:05:26,888 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:05:26,890 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:05:26,890 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:05:26,890 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:05:26,891 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!
+2024-04-03 12:05:41,594 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering saving task 3,here,3/16/2024 3:26:06 PM,Stray Kids
+2024-04-03 12:05:41,604 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='aaaa', spectacol=3,here,3/16/2024 3:26:06 PM,Stray Kids, nr_locuri=12} FestivalTicketSale.Model.Bilet
+2024-04-03 12:05:41,611 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBBiletRepository - Entering saving task Bilet{nume_cumparator='aaaa', spectacol=3,here,3/16/2024 3:26:06 PM,Stray Kids, nr_locuri=12} FestivalTicketSale.Model.Bilet
+2024-04-03 12:05:41,615 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:05:41,615 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:05:41,621 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:05:41,622 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:05:41,622 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:05:41,623 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find All!
+2024-04-03 12:05:41,623 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Entering findAll
+2024-04-03 12:05:41,623 [1] INFO FestivalTicketSale.Repository.DBRepositories.DBSpectacolRepository - Exiting Find By Artist!

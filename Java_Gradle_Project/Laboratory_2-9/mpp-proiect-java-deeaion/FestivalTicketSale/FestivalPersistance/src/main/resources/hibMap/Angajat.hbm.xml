@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name = "festival.model.Angajat" table = "Angajat">
+        <id name = "id" type="long" column = "id_angajat">
+            <generator class="increment"/>
+        </id>
+        <property name="prenume" type="string" column="prenume_angajat" />
+        <property name="nume" type="string" column="nume_angajat" />
+        <property name="email" type="string" column="email_angajat" />
+        <property name="username" type="string" column="username" />
+        <property name="password" type="string" column="password" />
+    </class>
+</hibernate-mapping>

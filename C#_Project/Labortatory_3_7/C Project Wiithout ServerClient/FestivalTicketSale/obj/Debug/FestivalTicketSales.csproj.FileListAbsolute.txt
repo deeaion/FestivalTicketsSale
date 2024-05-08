@@ -1,0 +1,9 @@
+C:\Users\Deea\Desktop\Uni\mpp-proiect-csharp-deeaion\FestivalTicketSales\bin\Debug\FestivalTicketSales.exe.config
+C:\Users\Deea\Desktop\Uni\mpp-proiect-csharp-deeaion\FestivalTicketSales\bin\Debug\FestivalTicketSales.exe
+C:\Users\Deea\Desktop\Uni\mpp-proiect-csharp-deeaion\FestivalTicketSales\bin\Debug\FestivalTicketSales.pdb
+C:\Users\Deea\Desktop\Uni\mpp-proiect-csharp-deeaion\FestivalTicketSales\obj\Debug\FestivalTicketSales.csproj.AssemblyReference.cache
+C:\Users\Deea\Desktop\Uni\mpp-proiect-csharp-deeaion\FestivalTicketSales\obj\Debug\FestivalTicketSales.Properties.Resources.resources
+C:\Users\Deea\Desktop\Uni\mpp-proiect-csharp-deeaion\FestivalTicketSales\obj\Debug\FestivalTicketSales.csproj.GenerateResource.cache
+C:\Users\Deea\Desktop\Uni\mpp-proiect-csharp-deeaion\FestivalTicketSales\obj\Debug\FestivalTicketSales.csproj.CoreCompileInputs.cache
+C:\Users\Deea\Desktop\Uni\mpp-proiect-csharp-deeaion\FestivalTicketSales\obj\Debug\FestivalTicketSales.exe
+C:\Users\Deea\Desktop\Uni\mpp-proiect-csharp-deeaion\FestivalTicketSales\obj\Debug\FestivalTicketSales.pdb
