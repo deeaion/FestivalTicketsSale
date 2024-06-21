@@ -1,0 +1,36 @@
+plugins {
+    id 'java'
+}
+
+group = 'festival.persistance'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation project(':FestivalModel')
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    runtimeOnly group: 'org.xerial', name: 'sqlite-jdbc', version: '3.16.1'
+    implementation group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.14.0'
+    constraints {
+        implementation("org.apache.logging.log4j:log4j-core") {
+            version {
+                strictly("[2.17, 3[")
+                prefer("2.17.0")
+            }
+            because("CVE-2021-44228, CVE-2021-45046, CVE-2021-45105: Log4j vulnerable to remote code execution and other critical security vulnerabilities")
+        }
+    }
+    implementation 'org.hibernate:hibernate-core:5.6.5.Final'
+    implementation group: 'com.github.gwenn', name: 'sqlite-dialect', version: '0.1.0'
+
+    implementation group: 'org.apache.logging.log4j', name: 'log4j-api', version: '2.14.0'
+
+}
+
+test {
+    useJUnitPlatform()
+}

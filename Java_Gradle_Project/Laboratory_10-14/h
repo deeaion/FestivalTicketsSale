@@ -1,0 +1,114 @@
+[33mcommit bab911d146166131921abe46407515f007e29763[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: a4de3be 5b4307e
+Author: Deea <116511056+deeaion@users.noreply.github.com>
+Date:   Wed May 15 11:21:47 2024 +0300
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit a4de3be91a599b744392db7f3a358369b13938c5[m
+Author: Deea <116511056+deeaion@users.noreply.github.com>
+Date:   Wed May 15 11:21:30 2024 +0300
+
+    pls
+
+[33mcommit 5b4307e8e2302890dd283de2dceddecf3f139fd7[m
+Merge: 648c1cc ba2f3b6
+Author: Deea <116511056+deeaion@users.noreply.github.com>
+Date:   Wed May 8 19:19:30 2024 +0300
+
+    Merge remote-tracking branch 'origin/main'
+    
+    # Conflicts:
+    #       FestivalTicketSale/FestivalClientFX/build.gradle
+    #       FestivalTicketSale/FestivalNetworking/build.gradle
+    #       FestivalTicketSale/FestivalPersistance/build.gradle
+    #       FestivalTicketSale/FestivalPersistance/src/main/java/festival/persistance/DBImplementation/DBAngajatHibRepository.java
+    #       FestivalTicketSale/FestivalPersistance/src/main/resources/hibMap/Angajat.hbm.xml
+    #       FestivalTicketSale/FestivalPersistance/src/main/resources/hibernate.cfg.xml
+    #       FestivalTicketSale/FestivalServer/build.gradle
+
+[33mcommit 648c1cc5c4cf9195d1882838519e75405745b167[m
+Author: Deea <116511056+deeaion@users.noreply.github.com>
+Date:   Wed May 8 19:15:12 2024 +0300
+
+    still_trying_saving_just_in_case
+
+[33mcommit ba2f3b6bf2926b4a48510fd973efec58de3d3847[m
+Author: Deea <116511056+deeaion@users.noreply.github.com>
+Date:   Thu May 2 17:30:35 2024 +0300
+
+    added_lab_week_11
+
+[33mcommit e127e1d00bb3235b975077d26dc2fc4fd4f5fede[m
+Author: Deea <116511056+deeaion@users.noreply.github.com>
+Date:   Tue Apr 23 21:37:52 2024 +0300
+
+    still_trying_saving_just_in_case
+
+[33mcommit df8f9ddd0fc0c33c63fe0a27f03ff445a2d286c1[m
+Author: Deea <116511056+deeaion@users.noreply.github.com>
+Date:   Sun Apr 21 12:56:09 2024 +0300
+
+    lab_8_forgot_to_commit
+
+[33mcommit fb1a12f1d52f63d3bbfec9e88ed2e10293e8fd58[m
+Author: Deea <116511056+deeaion@users.noreply.github.com>
+Date:   Sun Apr 21 12:55:48 2024 +0300
+
+    lab_8_forgot_to_commit
+
+[33mcommit 4b4bd274e98373a8b3ee757eec5b1895ab86edc6[m
+Author: Deea <116511056+deeaion@users.noreply.github.com>
+Date:   Tue Apr 9 20:36:32 2024 +0300
+
+    lab_finished_probs
+
+[33mcommit 70b0129c00d9c682b6a3a958438851dba6129f50[m
+Author: Deea <116511056+deeaion@users.noreply.github.com>
+Date:   Sun Apr 7 19:37:01 2024 +0300
+
+    lab_working
+
+[33mcommit 5fc3220e9d553933ec2f915f596d6329104370cf[m
+Author: Deea <116511056+deeaion@users.noreply.github.com>
+Date:   Tue Mar 26 22:17:12 2024 +0200
+
+    update_lab_sapt_5
+    Added everything needed
+
+[33mcommit a7ced1f55368cae3fa8713ce6f6adbcc2fb05124[m
+Author: Deea <116511056+deeaion@users.noreply.github.com>
+Date:   Sat Mar 16 15:08:28 2024 +0200
+
+    update_lab_sapt_4
+    Added everything needed
+
+[33mcommit 45b919b07e512772848e9bd3da987e3204120052[m
+Author: Deea <116511056+deeaion@users.noreply.github.com>
+Date:   Tue Mar 12 21:44:44 2024 +0200
+
+    update
+
+[33mcommit b0a8359d6a31d599cb72a376f05cdb024e80a39a[m
+Author: Deea <116511056+deeaion@users.noreply.github.com>
+Date:   Mon Mar 11 12:49:40 2024 +0200
+
+    finished_lab_1_java
+
+[33mcommit 0a89f1456c741257785619a8d04989a6ea101d13[m
+Author: Deea <116511056+deeaion@users.noreply.github.com>
+Date:   Sat Mar 9 00:19:25 2024 +0200
+
+    update_lab_1
+
+[33mcommit 6d9d143797671453897ecfaa0b5523ffb87a783e[m
+Author: Deea <116511056+deeaion@users.noreply.github.com>
+Date:   Sun Mar 3 00:18:21 2024 +0200
+
+    Update README.md
+
+[33mcommit 86e9346afdbc0f462e74d7d736bde881c5890aa1[m
+Author: Deea <116511056+deeaion@users.noreply.github.com>
+Date:   Sun Mar 3 00:17:36 2024 +0200
+
+    first commit

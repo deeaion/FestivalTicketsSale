@@ -1,0 +1,45 @@
+plugins {
+    id 'java'
+    id 'com.google.protobuf' version '0.9.4'
+
+    id 'idea'
+
+}
+
+group = 'festival.networking'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+def grpcVersion = '1.63.0' // CURRENT_GRPC_VERSION
+def protobufVersion = '4.26.1'
+def protocVersion = protobufVersion
+dependencies {
+    implementation project(':FestivalModel')
+    implementation project(':FestivalService')
+    implementation 'com.google.code.gson:gson:2.9.0'
+
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    implementation 'com.google.code.gson:gson:2.9.0'
+//    implementation 'io.grpc:grpc-protobuf-lite:1.63.0'
+//    implementation 'io.grpc:grpc-context:1.63.0'
+//    implementation 'io.grpc:grpc-core:1.63.0'
+//    implementation 'io.grpc:grpc-api:1.63.0'
+//    implementation 'io.grpc:grpc-stub:1.63.0' // Use the correct version that matches your gRPC version
+//    implementation 'io.grpc:grpc-netty:1.63.0'
+//    implementation 'io.grpc:grpc-protobuf:1.63.0'
+    implementation("com.google.protobuf:protobuf-java:${protobufVersion}")
+
+    implementation "com.google.protobuf:protobuf-java-util:${protobufVersion}"
+    }
+protobuf {
+    protoc { artifact = "com.google.protobuf:protoc:${protocVersion}" }
+//    plugins {
+//        grpc { artifact = "io.grpc:protoc-gen-grpc-java:${grpcVersion}" }
+//    }}
+}
+test {
+    useJUnitPlatform()
+}

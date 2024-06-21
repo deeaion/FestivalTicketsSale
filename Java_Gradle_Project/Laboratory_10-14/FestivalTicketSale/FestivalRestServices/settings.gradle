@@ -1,0 +1,5 @@
+rootProject.name = 'FestivalRestServices'
+include 'FestivalModel'
+include 'FestivalPersistance'
+project(':FestivalModel').projectDir = new File('../FestivalModel')
+project(':FestivalPersistance').projectDir = new File('../FestivalPersistance')

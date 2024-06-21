@@ -1,0 +1,159 @@
+#root{
+    font-family: "Caviar Dreams", sans-serif;
+}
+
+.formCustomization {
+    position: relative;
+    max-width: fit-content;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 4px #ccc;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 10px;
+    background: linear-gradient(90deg, #e9cedc, #eaafd0);
+    color: #e7688d;
+}
+h1
+{
+    text-align: center;
+    color: #6D3C52;
+    font-family: "EB Garamond", serif;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+.formCustomization label {
+    font-size: 1.2rem;
+    color: #6D3C52;
+    font-weight: bold;
+    text-align: left;
+    padding-right: 10px;
+}
+
+.formCustomization input,
+.formCustomization button {
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.formCustomization input[type="text"],
+.formCustomization input[type="date"],
+.formCustomization input[type="time"],
+.formCustomization input[type="number"] {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.formCustomization input[type="text"]:focus,
+.formCustomization input[type="date"]:focus,
+.formCustomization input[type="time"]:focus,
+.formCustomization input[type="number"]:focus {
+    border: 1px solid #decec7;
+}
+
+.formCustomization input[type="submit"],
+.formCustomization button.submit-button {
+    background-color: #e7688d;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.formCustomization input[type="submit"]:hover,
+.formCustomization button.submit-button:hover {
+    background-color: #8b506a;
+}
+
+.formCustomization button.cancel-button {
+    background-color: #a03f41;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.show-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.show-information {
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    background-color: #f0e7e7;
+}
+
+.show-item span {
+    margin: 0 10px;
+}
+
+body {
+    background-color: #ffeee4;
+    font-family: 'Roboto', sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 1em;
+    min-width: 400px;
+    font-weight: bold;
+    text-align: center;
+}
+
+thead tr {
+    background-color: #e7688d;
+    color: #ffffff;
+    text-align: center;
+    height: 40px;
+    font-weight: bolder;
+}
+
+thead tr th {
+    padding: 12px 15px;
+    cursor: pointer;
+}
+
+tbody tr {
+    border-bottom: 1px solid #a03f41;
+}
+
+tbody tr:nth-of-type(even) {
+    background-color: #e9cedc;
+}
+
+tbody tr:nth-of-type(odd) {
+    background-color: #eaafd0;
+}
+
+tbody button {
+    padding: 5px 10px;
+    margin: 0 5px;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    background-color: #e9678b;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+tbody button:hover {
+    background-color: #ddc0c8;
+}
+
+tbody tr:hover {
+    background-color: #ddc0c8;
+}
